@@ -4,24 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="feca7f12-ca66-4368-9f27-e2d00999dfcb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ahooclient/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ahooclient/src/main/java/org/dencik_incorporated/ClientApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ahooclient/src/test/java/org/dencik_incorporated/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ahoolib/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ahoolib/src/main/java/org/dencik_incorporated/Frame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ahoolib/src/main/java/org/dencik_incorporated/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ahoolib/src/test/java/org/dencik_incorporated/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ahooserver/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ahooserver/src/main/java/org/dencik_incorporated/ServerApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ahooserver/src/test/java/org/dencik_incorporated/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="feca7f12-ca66-4368-9f27-e2d00999dfcb" name="Changes" comment="initial commit">
+      <change beforePath="$PROJECT_DIR$/ahooserver/src/main/java/org/dencik_incorporated/ServerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/ahooserver/src/main/java/org/dencik_incorporated/ServerApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -57,7 +46,7 @@
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "collections-playground",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
@@ -70,6 +59,38 @@
       <option name="presentableId" value="Default" />
       <updated>1717393623826</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1717403437868</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717403437868</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1717403552214</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717403552214</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>
