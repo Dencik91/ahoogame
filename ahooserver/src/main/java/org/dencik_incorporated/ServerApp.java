@@ -20,6 +20,7 @@ public class ServerApp {
         players.add(new Player("jenel", 1));
 
         players.forEach(ServerApp::printInBrackets);
+
     }
 
     public static void printInBrackets(Player player) {
