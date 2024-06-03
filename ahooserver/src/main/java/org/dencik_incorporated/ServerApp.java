@@ -25,4 +25,8 @@ public class ServerApp {
         System.out.println(playerSocketMap.get("socket"));
 
     }
+
+    public static void printPair(String key, Object value) {
+        System.out.println(key + value);;
+    }
 }
