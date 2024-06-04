@@ -25,6 +25,7 @@ public class ServerApp {
         experimental.add("Serios");
         experimental.forEach(System.out::println);
 
+
     }
 
     public static void printInBrackets(Player player) {
