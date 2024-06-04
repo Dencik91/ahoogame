@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="feca7f12-ca66-4368-9f27-e2d00999dfcb" name="Changes" comment="player socket hashmap">
-      <change afterPath="$PROJECT_DIR$/ahooserver/src/main/java/org/dencik_incorporated/CustomSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahoolib/src/main/java/org/dencik_incorporated/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/ahoolib/src/main/java/org/dencik_incorporated/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahooserver/src/main/java/org/dencik_incorporated/ServerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/ahooserver/src/main/java/org/dencik_incorporated/ServerApp.java" afterDir="false" />
-    </list>
+    <list default="true" id="feca7f12-ca66-4368-9f27-e2d00999dfcb" name="Changes" comment="HomeworkDone" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +37,9 @@
     &quot;accountId&quot;: &quot;0f92ed1c-3708-4dbe-a1e8-ce42325a2e24&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -122,7 +120,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717405918727</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="player socket hashmap">
+      <option name="closed" value="true" />
+      <created>1717488861569</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1717488861569</updated>
+    </task>
+    <task id="LOCAL-00008" summary="HomeworkDone">
+      <option name="closed" value="true" />
+      <created>1717489322689</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1717489322689</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,6 +153,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="player socket hashmap" />
-    <option name="LAST_COMMIT_MESSAGE" value="player socket hashmap" />
+    <MESSAGE value="HomeworkDone" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeworkDone" />
   </component>
 </project>
