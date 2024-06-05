@@ -19,5 +19,6 @@ public class CustomSet<T>{
         for (T value : this.values) {
             consumer.accept(value);
         }
+
     }
 }
