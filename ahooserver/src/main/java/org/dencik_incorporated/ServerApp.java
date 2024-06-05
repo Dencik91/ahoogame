@@ -10,27 +10,18 @@ public class ServerApp {
 
 
     public static void main(String[] args) throws IOException, ClassNotFoundException {
-        Set<Player> players = new HashSet<>();
+        List<String> names = new ArrayList<>();
+        names.add("James");
+        names.add("Anton");
+        names.add("John");
+        names.add("Oleg");
+        names.add("Jake");
 
-        players.add(new Player("jon", 10));
-        players.add(new Player("pete", 100));
-        players.add(new Player("jon", 20));
-        players.add(new Player("mat", 100));
+        names.removeIf( name -> name.toString().startsWith("J"));
+        //names.removeIf(new Printer<>()::test); hueta
 
-        players.forEach(ServerApp::printInBrackets);
+        names.forEach(System.out::println);
 
-        CustomSet<String> experimental = new CustomSet<>();
-        experimental.add("Dencik");
-        experimental.add("Mujic");
-        experimental.add("Serios");
-        experimental.forEach(System.out::println);
-
-
-    }
-
-    public static void printInBrackets(Player player) {
-        System.out.println("[" + player + "]");
     }
 }
-
 
