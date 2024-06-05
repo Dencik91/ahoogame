@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="feca7f12-ca66-4368-9f27-e2d00999dfcb" name="Changes" comment="shapuri facute">
-      <change afterPath="$PROJECT_DIR$/ahooserver/src/main/java/org/dencik_incorporated/Fridge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ahooserver/src/main/java/org/dencik_incorporated/Switchable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ahooserver/src/main/java/org/dencik_incorporated/TV.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahooserver/src/main/java/org/dencik_incorporated/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/ahooserver/src/main/java/org/dencik_incorporated/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahooserver/src/main/java/org/dencik_incorporated/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahooserver/src/main/java/org/dencik_incorporated/Coordinate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahooserver/src/main/java/org/dencik_incorporated/HasCoordinates.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahooserver/src/main/java/org/dencik_incorporated/Rectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahooserver/src/main/java/org/dencik_incorporated/Shape.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahooserver/src/main/java/org/dencik_incorporated/Triangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahooserver/src/main/java/org/dencik_incorporated/Window.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahooserver/src/main/java/org/dencik_incorporated/TV.java" beforeDir="false" afterPath="$PROJECT_DIR$/ahooserver/src/main/java/org/dencik_incorporated/TV.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -166,7 +156,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717579111621</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="shapuri facute">
+      <option name="closed" value="true" />
+      <created>1717581521836</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1717581521836</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

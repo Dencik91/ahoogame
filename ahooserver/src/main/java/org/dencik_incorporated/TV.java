@@ -40,7 +40,7 @@ public class TV implements HasPowerSaving{
         this.isOn = STANDBY;
     }
 
-    public boolean getIsOn() {
+    public boolean isOn() {
         return this.isOn > OFF;
     }
 }
