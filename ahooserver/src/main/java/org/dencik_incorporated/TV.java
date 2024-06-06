@@ -3,10 +3,6 @@ package org.dencik_incorporated;
 public class TV implements HasPowerSaving{
     private int diagonal;
     private States isOn;
-//    private final byte ON=1;
-//    private final byte OFF=0;
-//    private final byte STANDBY=2;
-
 
     public TV() {}
 

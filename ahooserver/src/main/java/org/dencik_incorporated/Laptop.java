@@ -3,10 +3,6 @@ package org.dencik_incorporated;
 public class Laptop implements HasPowerSaving {
     private int numberCores;
     private States isOn;
-//    private final byte ON=1;
-//    private final byte OFF=0;
-//    private final byte STANDBY=2;
-//    private final byte DIMMED=3;
 
     public Laptop() {}
 
