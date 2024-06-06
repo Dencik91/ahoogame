@@ -2,17 +2,17 @@ package org.dencik_incorporated;
 
 public class TV implements HasPowerSaving{
     private int diagonal;
-    private byte isOn;
-    private final byte ON=1;
-    private final byte OFF=0;
-    private final byte STANDBY=2;
+    private States isOn;
+//    private final byte ON=1;
+//    private final byte OFF=0;
+//    private final byte STANDBY=2;
 
 
     public TV() {}
 
     public TV(int diagonal) {
         this.diagonal = diagonal;
-        this.isOn = OFF;
+        this.isOn = States.OFF;
     }
 
     public int getDiagonal() {
@@ -29,18 +29,20 @@ public class TV implements HasPowerSaving{
     }
 
     public void switchOn() {
-        this.isOn = ON;
+        this.isOn = States.ON;
     }
 
     public void switchOff() {
-        this.isOn = OFF;
+        this.isOn = States.OFF;
     }
 
     public void standBy() {
-        this.isOn = STANDBY;
+        this.isOn = States.Standby;
     }
 
     public boolean isOn() {
-        return this.isOn > OFF;
+        return this.isOn != States.OFF;
     }
 }
+
+enum States { ON, OFF, Standby }
