@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="feca7f12-ca66-4368-9f27-e2d00999dfcb" name="Changes" comment="shapuri facute">
-      <change afterPath="$PROJECT_DIR$/ahooserver/src/main/java/org/dencik_incorporated/Laptop.java" afterDir="false" />
+    <list default="true" id="feca7f12-ca66-4368-9f27-e2d00999dfcb" name="Changes" comment="HW add laptop and enum">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahooserver/src/main/java/org/dencik_incorporated/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/ahooserver/src/main/java/org/dencik_incorporated/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahooserver/src/main/java/org/dencik_incorporated/TV.java" beforeDir="false" afterPath="$PROJECT_DIR$/ahooserver/src/main/java/org/dencik_incorporated/TV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahooserver/src/main/java/org/dencik_incorporated/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/ahooserver/src/main/java/org/dencik_incorporated/Laptop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,7 +172,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717595490793</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="HW add laptop and enum">
+      <option name="closed" value="true" />
+      <created>1717655956256</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1717655956256</updated>
+    </task>
+    <task id="LOCAL-00014" summary="HW add laptop and enum">
+      <option name="closed" value="true" />
+      <created>1717656007706</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1717656007706</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -194,6 +208,7 @@
     <MESSAGE value="HomeworkDone" />
     <MESSAGE value="Initiate Commit" />
     <MESSAGE value="shapuri facute" />
-    <option name="LAST_COMMIT_MESSAGE" value="shapuri facute" />
+    <MESSAGE value="HW add laptop and enum" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW add laptop and enum" />
   </component>
 </project>

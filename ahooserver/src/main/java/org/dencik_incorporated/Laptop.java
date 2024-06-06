@@ -44,5 +44,5 @@ public class Laptop implements HasPowerSaving {
         return this.isOn != States.OFF;
     }
 
-    enum States { ON, OFF, Standby, Dimmed }
+    enum States { OFF, ON, Standby, Dimmed;}
 }
